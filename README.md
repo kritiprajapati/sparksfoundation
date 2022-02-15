@@ -13,4 +13,4 @@ Create your own temporary / sandbox / testing accounts with 3rd party for integr
 
 Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.
 
-Direct website link:
+Direct website link: https://kritiprajapati.github.io/sparksfoundation/
